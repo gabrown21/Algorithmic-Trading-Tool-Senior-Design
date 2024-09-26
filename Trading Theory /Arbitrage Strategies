@@ -1,3 +1,7 @@
+Definition:
+    Arbitrage strategies seek to exploit price inefficiencies between related markets or assets by simultaneously buying and selling
+    to profit from price differences, typically with minimal risk.
+
 1. Statistical Arbitrage (Stat Arb):
     Strategy: This involves identifying pairs of securities that historically move together (correlated), and when they deviate, buy the undervalued security and short the overvalued one, expecting them to revert to their historical relationship.
     Example: If stock A and stock B usually move together, but stock A rises while stock B falls, short stock A and go long on stock B.
