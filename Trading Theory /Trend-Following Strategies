@@ -1,4 +1,6 @@
-Trend-Following Strategies:
+Definition:
+Trend-following strategies involve identifying and trading in the direction of an existing market trend,
+aiming to profit from the continuation of price movements, whether upward or downward.
 
 1. Moving Average Crossover Strategy:
     Buy: When the short-term moving average (e.g., 50-day MA) crosses above the long-term moving average (e.g., 200-day MA)
