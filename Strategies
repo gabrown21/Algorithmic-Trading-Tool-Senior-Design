@@ -1,0 +1,21 @@
+Trading Strategies:
+
+1. Moving Average Crossover Strategy:
+    Buy: When the short-term moving average (e.g., 50-day MA) crosses above the long-term moving average (e.g., 200-day MA)
+    Sell: When the short-term moving average crosses below the long-term moving average
+
+2. Relative Strength Index (RSI) Strategy:
+    Buy: When the RSI falls below 30 (indicating the stock is oversold)
+    Sell: When the RSI rises above 70 (indicating the stock is overbought)
+
+3. Bollinger Bands Strategy:
+    Buy: When the price touches the lower Bollinger Band (indicating the stock is potentially oversold)
+    Sell: When the price touches the upper Bollinger Band (indicating the stock is potentially overbought)
+
+4. Mean Reversion Strategy: 
+    Buy: When a stock falls below its 20-day moving average by a certain percentage (e.g., 5%)
+    Sell: When the stock price reverts back to or above the 20-day moving average
+
+5. Breakout Strategy:
+    Buy: When the stock price breaks above a defined resistance level (e.g., the 30-day high)
+    Sell: When the stock price breaks below a defined support level (e.g., the 30-day low)
