@@ -5,27 +5,35 @@ and sophisticated algorithms to analyze market behavior and forecast price movem
 
 1. Momentum Trading:
 
-    Definition: Momentum trading is a quantitative strategy that capitalizes on the tendency of assets to persist in their price trends.
-                  Traders identify stocks that have shown strong performance over a specified period and invest in them, anticipating that
-                  the trend will continue.
+    Definition:
+    Momentum trading is a quantitative strategy that capitalizes on the tendency of assets to persist in their price trends.
+    Traders identify stocks that have shown strong performance over a specified period and invest in them, anticipating that
+    the trend will continue.
 
-    Mechanism: The strategy typically involves:
-                - Ranking: Stocks are ranked based on their past performance over a defined time frame (e.g., 3, 6, or 12 months).
-                - Entry and Exit: Positions are entered when stocks demonstrate significant upward momentum, and positions are exited
-                  when momentum wanes or reverses.
+    Mechanism:
+    The strategy typically involves:
+    - Ranking: Stocks are ranked based on their past performance over a defined time frame (e.g., 3, 6, or 12 months).
+    - Entry and Exit: Positions are entered when stocks demonstrate significant upward momentum, and positions are exited when momentum wanes or reverses.
 
-    Execution: Algorithms are used to track performance data and generate signals based on predetermined thresholds for buying and selling.
+    Execution:
+    Algorithms are used to track performance data and generate signals based on predetermined thresholds for buying and selling.
 
-    Risk Management: Momentum strategies often incorporate stop-loss orders and diversification across sectors to mitigate risk.
+    Risk Management:
+    Momentum strategies often incorporate stop-loss orders and diversification across sectors to mitigate risk.
 
 2. Mean Reversion:
 
-    Definition: Mean reversion is a quantitative strategy based on the principle that asset prices will revert to their historical average over time. Traders buy undervalued assets and sell overvalued assets, expecting prices to return to their mean.
+    Definition:
+    Mean reversion is a quantitative strategy based on the principle that asset prices will revert to their historical average over time.
+    Traders buy undervalued assets and sell overvalued assets, expecting prices to return to their mean.
     
-    Mechanism: The strategy generally involves:
+    Mechanism:
+    The strategy generally involves:
+    - Identifying Averages: Establishing a mean price level using historical data (e.g., moving averages).
+    - Trading Signals: Buying when prices fall below the mean by a specific percentage and selling when prices rise above the mean.
+
+    Execution:
+    Quantitative models continuously monitor price deviations from the mean and execute trades based on predefined criteria.
     
-    Identifying Averages: Establishing a mean price level using historical data (e.g., moving averages).
-    Trading Signals: Buying when prices fall below the mean by a specific percentage and selling when prices rise above the mean.
-    Execution: Quantitative models continuously monitor price deviations from the mean and execute trades based on predefined criteria.
-    
-    Risk Management: Strategies may include setting stop-loss limits and employing position sizing rules to control exposure to sudden market movements.
+    Risk Management:
+    Strategies may include setting stop-loss limits and employing position sizing rules to control exposure to sudden market movements.
