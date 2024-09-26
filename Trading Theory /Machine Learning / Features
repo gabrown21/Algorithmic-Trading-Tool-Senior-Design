@@ -41,3 +41,7 @@ that represent patterns or information in the data and are critical for making p
 10. Order Book Data:
     Definition: Real-time data showing buy and sell orders for an asset at various price levels.
     Use: Analyzing the order book provides insights into market supply and demand, helping to detect short-term price pressure or liquidity imbalances.
+
+11. P-Ratio:
+    Definition: The proportion of stocks within the Dow 30 that are trading above a certain benchmark or threshold (such as their moving average or a key price level).
+    Use: Helps gauge overall market strength or sentiment by indicating how many stocks in the index are performing well relative to the chosen metric.
