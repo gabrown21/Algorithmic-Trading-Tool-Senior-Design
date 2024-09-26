@@ -7,18 +7,22 @@ Definition:
     Stocks that have performed well over the past 3 to 12 months tend to continue performing well in the short term, while poorly performing stocks tend to continue underperforming
     Strategy: Buy stocks that have exhibited strong upward momentum and short stocks with downward momentum
 
-2. January Effect
+2. Stock Inclusion Anomaly:
+    Stocks that are added to major market indices (such as the S&P 500, Russell 2000, etc.) often experience abnormal returns—typically positive ones—immediately after their inclusion (increased demand, ...).
+    Strategy: Buy stocks just before they are added to a major index to capitalize on the expected short-term price increase following their inclusion.
+
+3. January Effect:
     Small-cap stocks tend to outperform large-cap stocks in January, likely due to tax-loss selling at the end of the previous year
     Strategy: Buy small-cap stocks in December and hold through January to capitalize on this effect
 
-3. Mean Reversion Anomaly:
+4. Mean Reversion Anomaly:
     Stocks that deviate significantly from their historical average tend to revert to the mean over time
     Strategy: Buy stocks that have dropped sharply below their average and sell those that have surged above their historical average
 
-4. Post-Earnings Announcement Drift (PEAD):
+5. Post-Earnings Announcement Drift (PEAD):
     Stocks tend to continue moving in the same direction after a significant earnings announcement. Positive earnings surprises tend to be followed by further upward price movement, and negative surprises by further downward movement
     Strategy: Buy stocks with positive earnings surprises and short those with negative earnings surprises
 
-5. Weekend Effect:
+6. Weekend Effect:
     Stock returns tend to be lower on Mondays compared to other days of the week, often due to negative news that accumulates over the weekend.
     Strategy: Sell positions on Friday afternoon and buy on Monday after a potential dip in prices.
