@@ -1,0 +1,19 @@
+1. Statistical Arbitrage (Stat Arb):
+    Strategy: This involves identifying pairs of securities that historically move together (correlated), and when they deviate, buy the undervalued security and short the overvalued one, expecting them to revert to their historical relationship.
+    Example: If stock A and stock B usually move together, but stock A rises while stock B falls, short stock A and go long on stock B.
+
+2. Merger Arbitrage:
+    Strategy: After a merger or acquisition announcement, buy the target company’s stock (often trading at a discount to the offer price) and short the acquiring company’s stock. The goal is to profit from the spread once the deal closes at the announced terms.
+    Example: If company A offers to buy company B at $50/share, but company B trades at $48, buy B shares and capture the $2/share when the deal completes.
+
+3. Convertible Bond Arbitrage:
+    Strategy: Buy an undervalued convertible bond (which can convert into shares of the issuing company) and short the stock of the same company. The aim is to exploit price discrepancies between the bond and the underlying stock while hedging against price risk.
+    Example: Buy a convertible bond of company A and short its stock if the bond is mispriced relative to the stock’s performance.
+
+4. Triangular Arbitrage (Currency):
+    Strategy: Exploit pricing inefficiencies in the foreign exchange market by buying and selling different currency pairs simultaneously to profit from discrepancies in exchange rates.
+    Example: If USD/EUR, EUR/JPY, and USD/JPY have inconsistent rates, trade across these pairs to lock in a profit.
+
+5. Index Arbitrage:
+    Strategy: When the price of a stock index (e.g., S&P 500) and the price of its component stocks diverge, buy the cheaper asset and sell the more expensive one, betting the prices will converge.
+    Example: If the S&P 500 futures trade at a premium to the underlying stocks, short the futures and buy the stocks to capture the spread.
