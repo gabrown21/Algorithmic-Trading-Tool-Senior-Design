@@ -1,0 +1,14 @@
+This project aims to develop an advanced algorithmic trading platform that uses machine learning
+to predict stock price movements, generate trading signals, and optimize portfolio management.
+By analyzing historical market data, real-time indicators, and sentiment from news sources, the platform will:
+
+1. Predict Price Movements: Combine LSTM Model, NLP Model, and Boost Algorithm to identify trends and forecast future prices.
+2. Generate Trading Signals: Identify optimal entry and exit points based on predictive analytics.
+3. Optimize Portfolios: Dynamically adjust asset allocations to maximize returns and minimize risk.
+4. Backtest Strategies: Evaluate performance using historical data.
+5. Real-time Execution: Enable quick trade execution.
+6. Provide a User-friendly Interface: Offer intuitive monitoring and customization options.
+
+
+The end goal is to have a fully automated trading platform that analyzes data sources and executes trades based on customized indicators, trends, and real-time market conditions.
+
