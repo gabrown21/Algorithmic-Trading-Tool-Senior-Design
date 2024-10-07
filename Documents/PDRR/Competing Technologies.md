@@ -1,6 +1,8 @@
-In our exploration of the algorithmic trading landscape, we identified several significant competing technologies that provide valuable insights into our project requirements. These technologies range from established trading platforms to emerging fintech solutions, each with distinct features and requirements.
+In our exploration of the algorithmic trading landscape, we identified several significant competing technologies and entities that provide valuable insights into our project requirements. These range from established trading platforms to emerging quantitative institutions, each with distinct features and requirements.
 
 MetaTrader 4/5: Widely used by retail traders, MetaTrader platforms offer comprehensive charting tools, algorithmic trading capabilities, and access to various financial instruments. Key requirements include user-friendly interfaces, backtesting capabilities, and a robust community for sharing trading strategies. We are incorporating user-friendly design and extensive backtesting functionalities in our platform to ensure ease of use and reliability.
+
+Jane Street: A global trading firm and liquidity provider known for its quantitative trading strategies. Founded in 2000, it specializes in various asset classes, including equities, fixed income, and options. The firm emphasizes a data-driven approach, combining advanced technology with deep market expertise to optimize trading efficiency and risk management.
 
 QuantConnect: This open-source platform allows users to develop and backtest trading algorithms in multiple programming languages. Key features include cloud-based backtesting, extensive data libraries, and a focus on community collaboration. Its requirements emphasize scalability and data accessibility, prompting us to consider cloud infrastructure and a rich data ecosystem in our design.
 
