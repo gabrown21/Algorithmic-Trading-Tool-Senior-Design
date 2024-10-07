@@ -10,8 +10,4 @@ Bloomberg Terminal: As a professional trading platform, Bloomberg provides real-
 
 Alpaca: A commission-free trading platform that offers APIs for algorithmic trading. Requirements here include API reliability, low-latency execution, and straightforward integration for developers. This insight has led us to prioritize API robustness and execution speed in our platform to attract developers and traders alike.
 
-Interactive Brokers: Known for its extensive range of trading tools and global market access, Interactive Brokers emphasizes compliance, low costs, and high execution quality. The regulatory requirements and focus on transparency observed here are critical for us to consider in our compliance strategy.
-
-Patents and Standards: Various patents related to algorithmic trading technologies highlight requirements for performance benchmarks, data management protocols, and risk assessment frameworks. Relevant standards from organizations like IEEE guide the development of reliable software systems, reinforcing our commitment to adherence to best practices in algorithm design and execution.
-
 By analyzing these competing technologies, we have extracted essential requirements that will inform our platform's development. These include a user-friendly interface, robust backtesting capabilities, API reliability, performance optimization, and adherence to regulatory standards. Incorporating these insights will help ensure our platform meets the needs of users and stands out in a competitive market.
