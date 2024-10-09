@@ -1,3 +1,9 @@
+- Average True Range: Average price range of an investment over a period. If the ATR for an asset is $1.18, its price has an average range of movement of $1.18 per trading day.
+
+- Relative Strength Index: Measures the speed and magnitude of a security's recent price changes to detect overvalued or undervalued conditions in the price of that security.
+
+- Keltner Channel: Tracks volatility using an asset's exponential moving average and average true range.
+
 - Standard Deviation: Measures how widely returns are dispersed from the average return. It’s the most common (and biased) estimator of volatility.
 
 - Parkinson's: Uses the stock’s high and low price of the day rather than just close to close prices. It’s useful to capture large price movements during the day.
