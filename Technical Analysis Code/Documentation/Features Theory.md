@@ -1,4 +1,8 @@
+- Moving Averages: Identify the trend direction of a stock or determine its support and resistance levels. It is a trend-following or lagging indicator because it is based on past prices.
+
 - Average True Range: Average price range of an investment over a period. If the ATR for an asset is $1.18, its price has an average range of movement of $1.18 per trading day.
+
+- Bollinger Bands: Helps gauge the volatility of stocks and other securities to determine if they are over- or undervalued. 
 
 - Relative Strength Index: Measures the speed and magnitude of a security's recent price changes to detect overvalued or undervalued conditions in the price of that security.
 
