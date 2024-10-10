@@ -1,6 +1,8 @@
-- Moving Averages: Identify the trend direction of a stock or determine its support and resistance levels. It is a trend-following or lagging indicator because it is based on past prices.
+- Moving Averages: Identifies the trend direction of a stock or determine its support and resistance levels. It is a trend-following or lagging indicator because it is based on past prices.
 
-- Average True Range: Average price range of an investment over a period. If the ATR for an asset is $1.18, its price has an average range of movement of $1.18 per trading day.
+- Average True Range: Averages price range of an investment over a period. If the ATR for an asset is $1.18, its price has an average range of movement of $1.18 per trading day.
+
+- Stochastic Oscillator: Compares a particular closing price of a security to a range of its prices over a certain period of time. The sensitivity of the oscillator to market movements is reducible by adjusting that time period or by taking a moving average of the result. It is used to generate overbought and oversold trading signals, utilizing a 0–100 bounded range of values.
 
 - Bollinger Bands: Helps gauge the volatility of stocks and other securities to determine if they are over- or undervalued. 
 
