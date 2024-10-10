@@ -13,3 +13,5 @@ https://www.investopedia.com/terms/m/movingaverage.asp#toc-understanding-a-movin
 https://www.investopedia.com/terms/b/bollingerbands.asp#toc-how-reliable-are-bollinger-bands
 
 https://www.investopedia.com/terms/s/stochasticoscillator.asp#toc-what-is-a-stochastic-oscillator
+
+https://www.investopedia.com/terms/p/pricerateofchange.asp
