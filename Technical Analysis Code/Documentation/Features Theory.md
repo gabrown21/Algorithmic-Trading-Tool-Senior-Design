@@ -1,3 +1,5 @@
+- Beta: Denotes the volatility or systematic risk of a security or portfolio compared to the market, usually the S&P 500 which has a beta of 1.0. Stocks with betas higher than 1.0 are interpreted as more volatile than the S&P 500.
+
 - Moving Averages: Identifies the trend direction of a stock or determine its support and resistance levels. It is a trend-following or lagging indicator because it is based on past prices.
 
 - Average True Range: Averages price range of an investment over a period. If the ATR for an asset is $1.18, its price has an average range of movement of $1.18 per trading day.
