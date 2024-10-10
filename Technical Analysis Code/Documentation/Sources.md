@@ -15,3 +15,5 @@ https://www.investopedia.com/terms/b/bollingerbands.asp#toc-how-reliable-are-bol
 https://www.investopedia.com/terms/s/stochasticoscillator.asp#toc-what-is-a-stochastic-oscillator
 
 https://www.investopedia.com/terms/p/pricerateofchange.asp
+
+https://www.investopedia.com/terms/b/beta.asp
