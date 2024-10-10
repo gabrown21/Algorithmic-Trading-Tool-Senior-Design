@@ -11,3 +11,5 @@ https://www.investopedia.com/terms/k/keltnerchannel.asp#toc-the-bottom-line
 https://www.investopedia.com/terms/m/movingaverage.asp#toc-understanding-a-moving-average-ma
 
 https://www.investopedia.com/terms/b/bollingerbands.asp#toc-how-reliable-are-bollinger-bands
+
+https://www.investopedia.com/terms/s/stochasticoscillator.asp#toc-what-is-a-stochastic-oscillator
